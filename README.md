@@ -42,17 +42,6 @@ This project was built as a self-directed learning exercise to demonstrate pract
 - Decision Table Testing
 - Exploratory Testing
 
-## Repository Structure
-
-```
-├── README.md
-├── test-plan.md
-├── test-cases/
-│   └── test-cases.xlsx
-├── bug-reports/
-│   ├── bug-reports.md
-│   └── screenshots/
-```
 
 ## Tools Used
 
